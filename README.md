@@ -1,1 +1,1 @@
-# Perlatecnica-xNucleo-IKS4A1_LSM6DSV16X_mbedOS_009-WakeUpDetection
+# xNucleo-IKS4A1_LSM6DS16X_mbedOS_009-WakeUpDetection
